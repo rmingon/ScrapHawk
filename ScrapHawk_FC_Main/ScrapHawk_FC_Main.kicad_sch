@@ -1656,6 +1656,126 @@
 			(embedded_fonts no)
 		)
 	)
+	(label "QSPI_SS"
+		(at 147.32 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "17e3edb7-bb78-45ec-9aaf-b7f92c97fec3")
+	)
+	(label "QSPI_SD1"
+		(at 147.32 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3f97a35c-7ed7-4926-bfe1-a47b3fa3f1bc")
+	)
+	(label "QSPI_SD2"
+		(at 147.32 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47b506d3-a493-4746-b2e0-78e558b6bbd3")
+	)
+	(label "QSPI_SD1"
+		(at 59.69 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "52dc350b-1541-4b0d-a3bc-68d769b935a9")
+	)
+	(label "QSPI_SCLK"
+		(at 147.32 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "58b042ff-63f6-4cde-8170-fc8c83620ba8")
+	)
+	(label "QSPI_SD2"
+		(at 59.69 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "61daba98-3307-4ed8-a190-a4b16aec115a")
+	)
+	(label "QSPI_SD1"
+		(at 147.32 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "896e2e83-183a-404f-9d3b-52d3804d00d5")
+	)
+	(label "QSPI_SD3"
+		(at 59.69 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "92098698-85a2-4c79-bd43-a26a0cc59f97")
+	)
+	(label "QSPI_SS"
+		(at 59.69 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a0375fa4-5797-48c9-a210-7072cfe1e984")
+	)
+	(label "QSPI_SD1"
+		(at 59.69 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a7fb59f7-15bf-4d90-aaa8-30d90d449e17")
+	)
+	(label "QSPI_SD3"
+		(at 147.32 55.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b3d87eda-002a-4fa6-8e87-a60f3a9c7840")
+	)
+	(label "QSPI_SCLK"
+		(at 59.69 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e9a35b2a-0626-42af-8f84-d6a70054d238")
+	)
 	(symbol
 		(lib_id "Memory_Flash:W25Q128JVS")
 		(at 157.48 50.8 0)
