@@ -1,0 +1,96 @@
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# IDEs and Editors
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.suo
+*.user
+
+# =========================
+# Environment & Secrets
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+secrets.json
+
+# =========================
+# Logs and Databases
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.sqlite
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+dist/
+build/
+coverage/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+pip-log.txt
+
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+target/
+.gradle/
+
+# =========================
+# C / C++ / Go
+# =========================
+*.o
+*.obj
+*.out
+*.exe
+bin/
+pkg/
+
+# =========================
+# KiCad
+# =========================
+# KiCad 6+ backups and lock files
+*-backups/
+*.lck
+
+# Legacy backups and autosaves
+*.bak
+*.bck
+*-bak
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+fp-info-cache
