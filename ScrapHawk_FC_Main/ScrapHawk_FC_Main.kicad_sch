@@ -7189,6 +7189,54 @@
 			)
 		)
 	)
+	(global_label "LED1"
+		(shape input)
+		(at 109.22 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1eafa9a0-46ce-4073-a8d2-ab4e8483ac6a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 116.8618 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "MOTOR2"
+		(shape input)
+		(at 109.22 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "21704dbd-dd5b-40d3-aa9b-31b3f89224cf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7647 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "UART0_RX"
 		(shape input)
 		(at 109.22 104.14 0)
@@ -7322,6 +7370,30 @@
 		(uuid "45c7a2dc-7c5f-490a-964d-ebc2de92c5a0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 135.2634 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "MOTOR3"
+		(shape input)
+		(at 128.27 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "57496f9d-8192-4f53-92cf-42911c40db08")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 35.9447 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7501,6 +7573,30 @@
 			)
 		)
 	)
+	(global_label "MOTOR1"
+		(shape input)
+		(at 109.22 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "79c37748-cb49-468f-8804-dadc0fc2dbd7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7647 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "QSPI_SD2"
 		(shape input)
 		(at 58.42 144.78 180)
@@ -7522,6 +7618,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MOTOR4"
+		(shape input)
+		(at 109.22 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ee3c728-997c-45fe-955b-bd83e11fd752")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7647 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -7562,6 +7682,30 @@
 		(uuid "83ea1ea2-0a77-4603-90e9-c052f45efd04")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 184.15 104.1618 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "MOTOR1"
+		(shape input)
+		(at 123.19 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e2ad2de-3647-43ce-8bfb-dad601ffb7b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 123.19 35.9447 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7741,6 +7885,30 @@
 			)
 		)
 	)
+	(global_label "MOTOR2"
+		(shape input)
+		(at 125.73 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b0f69cf8-a86a-4c45-a0d8-fa05bc833204")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 125.73 35.9447 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "MISO"
 		(shape input)
 		(at 109.22 142.24 0)
@@ -7754,6 +7922,30 @@
 		(uuid "b1ba69ee-2c18-4128-8dc0-c59fb9f011e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 116.8014 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "MOTOR3"
+		(shape input)
+		(at 109.22 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5734f0a-d74d-4fb8-b8cb-825bfbaa4532")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7647 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7861,6 +8053,30 @@
 			)
 		)
 	)
+	(global_label "LED2"
+		(shape input)
+		(at 109.22 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dfdd60ee-8b37-4f77-8943-4a0ef331b0fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 116.8618 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "QSPI_SS"
 		(shape input)
 		(at 58.42 134.62 180)
@@ -7930,6 +8146,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "MOTOR4"
+		(shape input)
+		(at 130.81 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fdec692a-d086-4759-8fb5-c5f085b36361")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 130.81 35.9447 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -9512,6 +9752,83 @@
 			(project "ScrapHawk_FC_Main"
 				(path "/000cb4d4-c35f-4b1e-baa5-bc84b3079991"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 118.11 25.4 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3a2631a2-3924-483f-9753-3226e642f6c2")
+		(property "Reference" "#PWR033"
+			(at 118.11 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 118.11 31.242 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 118.11 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf7261b8-1695-4cb6-b2bc-98536ef68bf5")
+		)
+		(instances
+			(project "ScrapHawk_FC_Main"
+				(path "/000cb4d4-c35f-4b1e-baa5-bc84b3079991"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -11140,6 +11457,98 @@
 			(project "ScrapHawk_FC_Main"
 				(path "/000cb4d4-c35f-4b1e-baa5-bc84b3079991"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x06")
+		(at 123.19 20.32 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ec1c3a8-9084-4c30-be5d-925f2964df8d")
+		(property "Reference" "J3"
+			(at 124.46 13.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x06"
+			(at 124.46 16.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+			(at 123.19 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 123.19 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "f45901a2-b41c-4b4e-bc50-08f775657813")
+		)
+		(pin "6"
+			(uuid "d7ddd705-6fcc-4b4f-aee6-0c782d1be65c")
+		)
+		(pin "2"
+			(uuid "1fbf9d68-a55f-45da-a3b9-eae366985b56")
+		)
+		(pin "4"
+			(uuid "5e59cd5e-443d-404e-adcd-98b3e8ece153")
+		)
+		(pin "1"
+			(uuid "83f1bc79-8ae4-4ede-add0-73c0ff902182")
+		)
+		(pin "3"
+			(uuid "6b234b8f-a95d-4eaf-ac39-b851e13cdbbe")
+		)
+		(instances
+			(project "ScrapHawk_FC_Main"
+				(path "/000cb4d4-c35f-4b1e-baa5-bc84b3079991"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -13127,6 +13536,83 @@
 			(project "ScrapHawk_FC_Main"
 				(path "/000cb4d4-c35f-4b1e-baa5-bc84b3079991"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 25.4 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b1651059-1085-4cfd-8f39-43ad2393f413")
+		(property "Reference" "#PWR034"
+			(at 120.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 120.65 30.226 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "84345807-2c81-47f5-a040-9b4046a938aa")
+		)
+		(instances
+			(project "ScrapHawk_FC_Main"
+				(path "/000cb4d4-c35f-4b1e-baa5-bc84b3079991"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
